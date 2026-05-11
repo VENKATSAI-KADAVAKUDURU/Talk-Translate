@@ -52,7 +52,7 @@ We would like to thank the **speech recognition community**, **translation APIs*
 ## Contact
 
 For any inquiries or questions, please feel free to contact us at:  
-📧 **Email:** (mailto:kesava1045@gmail.com)
+📧 **Email:** (mailto:kadavakuduruvenkatsai@gmail.com)
 ---
 
 ## Run Locally
